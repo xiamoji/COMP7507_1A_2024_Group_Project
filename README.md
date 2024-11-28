@@ -54,7 +54,6 @@ Our analysis is structured around **five core themes**:
 
 The findings aim to benefit stakeholders across the entertainment ecosystem, from producers seeking to align their projects with audience expectations to platforms refining their recommendation algorithms.
 
-![image-20241128143510961](C:\Users\Xinyu\AppData\Roaming\Typora\typora-user-images\image-20241128143510961.png)
 
 ## References
 - *Tufte, E. R., & Graves-Morris, P. R. (1983). The visual display of quantitative information (Vol. 2, No.  9). Cheshire, CT: Graphics press.* 

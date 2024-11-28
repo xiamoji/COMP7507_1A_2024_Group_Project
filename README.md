@@ -5,7 +5,12 @@
 - **Demo:** https://public.tableau.com/app/profile/zhang.yanfeng/viz/version1_17314112239110/develop?publish=yes
 - **Tableau File:** [final_version.twbx](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/final_project/final_version.twbx)
 - **Group Report:** [Group 14 final_report](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/final_report.pdf)
-- **Individual Reports:** [Hao Xinyu](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/HAO Xinyu.pdf); [Li Yinghua](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/LI Yinghua.pdf); [Wan Dingkang](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/Wan Dingkang.pdf); [Zhang Hongyi](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/ZHANG Hongyi.pdf); [Zhang Yanfeng](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/ZhangYanfeng.pdf)
+- **Individual Reports:** 
+  - [Hao Xinyu](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/HAO Xinyu.pdf); 
+  - [Li Yinghua](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/LI Yinghua.pdf); 
+  - [Wan Dingkang](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/Wan Dingkang.pdf); 
+  - [Zhang Hongyi](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/ZHANG Hongyi.pdf); 
+  - [Zhang Yanfeng](https://github.com/xiamoji/COMP7507_1A_2024_Group_Project/blob/main/individual_reports/ZhangYanfeng.pdf)
 
 ## Team Members
 - ZHANG Yanfeng  3036411839
